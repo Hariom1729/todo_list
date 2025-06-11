@@ -169,3 +169,18 @@ input.edit-input {
 input.edit-input:focus {
   border-color: #9333ea;
 }
+
+
+.top-left-name {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+
+.top-left-name:hover {
+    color: #007BFF; /* optional hover effect */
+}
